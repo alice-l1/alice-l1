@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 😄, I'm Alice</h1>
 <h3 align="center">A Data Science student at University Paris 1 Panthéon-Sorbonne</h3>
 
-Hello there, pleased to meet you !
+Pleased to meet you !
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
